@@ -1,0 +1,10 @@
+#Install Express Genrator
+
+npm install express-generator -g
+
+# Create express application
+express <app-name>
+
+app-name folder will be created.
+move into your app folder and execute below code
+npm install

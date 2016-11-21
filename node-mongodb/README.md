@@ -1,0 +1,1 @@
+Follow instructions from https://www.mongodb.com/ to install and run mongodb.

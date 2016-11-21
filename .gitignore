@@ -1,3 +1,6 @@
 mongodb/
 express-generator-example/node_modules
 basic-example/node_modules
+rest-server-passport/bin/cert.csr
+rest-server-passport/bin/certificate.pem
+rest-server-passport/bin/private.key

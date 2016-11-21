@@ -25,6 +25,6 @@ var solveRectangle = function(l, b) {
 	}
 }
 
-solverect(2, 3);
-solverect(3,4);
-solverect(-3,5);
+solveRectangle(2, 3);
+solveRectangle(3,4);
+solveRectangle(-3,5);
